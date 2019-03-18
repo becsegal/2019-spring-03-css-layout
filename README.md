@@ -17,7 +17,9 @@ Use flexbox to create a complex site layout with rows and columns.
 2. What styles are used on this page?
 3. How does the html page know about the styles?
 
-![alt text](https://github.com/megknoll/coderbabez-css-wk2/raw/master/img/practice.png "Review")
+![alt text](https://github.com/megknoll/coderbabez-css-wk2/raw/master/img/practice.png "Review") . 
+
+Try it: https://jsfiddle.net/coderbabez/yq0e3j1s/1/
 
 ### Intro
 Last week we started exploring using CSS to add styles to our pages. This week we're going to continue with CSS to work on layout - or moving elements to specific positions on the page using CSS.
